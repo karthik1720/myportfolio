@@ -221,6 +221,9 @@
     padding: 0 30px;
     text-align: center;
   }
+  .githubsmimage {
+    width: 30px;
+  }
   .project {
     flex-direction: column;
     height: max-content;
